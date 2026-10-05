@@ -26,7 +26,7 @@ Waldemiro Kubucama holds a Master’s degree in Electrical Engineering – Energ
 </li>  
 
 <li>
-<i class="fa fa-university"></I> Degree in Electrical and Computer Engineering, 2016, ESTS, Setúbal Polytechnic University
+<i class="fa fa-university"></I> Licenciatura in Electrical and Computer Engineering, 2016, ESTS, Setúbal Polytechnic University
 </li>
 
 
