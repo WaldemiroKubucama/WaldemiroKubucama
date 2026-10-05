@@ -1,34 +1,28 @@
 ---
-
 permalink: /
 title: "About"
 author_profile: true
-redirect_from:
-* /about/
-* /about.html
-
 ---
-
 ## About me
 
 I am an Electrical Engineer with a Master's degree in Electrical Engineering, with professional and academic interests in electrical machines, electromechanical drives, power electronic converters, energy storage and energy analysis.
 
 My academic work has focused on the modelling and analysis of electrical machines, with particular interest in Synchronous Reluctance Motors (SynRM), finite element analysis and electromagnetic simulation.
 
-My Master's dissertation involved the modelling and analysis of an ABB Synchronous Reluctance Motor using FEMM and SyR-e, including the study of the electromagnetic behaviour, winding configuration, losses, efficiency and operating strategies.
+My Master's dissertation involved the modelling and analysis of an ABB Synchronous Reluctance Motor using FEMM and SyR-e, including the study of electromagnetic behaviour, winding configuration, losses, efficiency and operating strategies.
 
 ## Research Interests
 
-* Electrical Machines
-* Synchronous Reluctance Motors (SynRM)
-* Electromechanical Drives
-* Power Electronic Converters
-* Finite Element Method (FEM)
-* FEMM and SyR-e
-* Energy Storage
-* Energy Monitoring and Analysis
-* Electrical Installations
-* Automation and Data Analysis
+- Electrical Machines
+- Synchronous Reluctance Motors (SynRM)
+- Electromechanical Drives
+- Power Electronic Converters
+- Finite Element Method (FEM)
+- FEMM and SyR-e
+- Energy Storage
+- Energy Monitoring and Analysis
+- Electrical Installations
+- Automation and Data Analysis
 
 ## Projects
 
