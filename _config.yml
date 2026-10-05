@@ -15,8 +15,8 @@ title_separator          : "-"
 name                     : &name "Waldemiro Kubucama"
 description              : &description "Electrical Engineer | Electrical Machines | Energy"
 
-url                      : "https://waldemirokubucama.github.io/WaldemiroKubucama"
-baseurl                  : ""
+url                      : "https://waldemirokubucama.github.io"
+baseurl                  : "/WaldemiroKubucama"
 repository               : "WaldemiroKubucama/WaldemiroKubucama"
 
 # Site Author
