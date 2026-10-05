@@ -21,9 +21,13 @@ Waldemiro Kubucama holds a Master’s degree in Electrical Engineering – Energ
 
 ## Education
 
+<li>
 <i class="fa fa-university"></I> Master’s degree in Electrical Engineering, 2025, ISEL, Lisbon Polytechnic University
-<i class="fa fa-university"></I> Degree in Electrical and Computer Engineering, 2016, ESTS, Setúbal Polytechnic University
+</li>  
 
+<li>
+<i class="fa fa-university"></I> Degree in Electrical and Computer Engineering, 2016, ESTS, Setúbal Polytechnic University
+</li>
 
 
 
