@@ -22,6 +22,6 @@ Instituto Superior de Engenharia de Lisboa, Universidade Politécnica de Lisboa\
 
 ## Licentiate final project
 
-"[Contribuição para o estudo de deteção e diagnóstico de falhas em máquinas de indução trifásicas]({{ "/files/Projeto de Licenciatura.pdf" | relative_url }})", July 2016<br>
+"[Contribuição para o estudo de deteção e diagnóstico de falhas em máquinas de indução trifásicas]({{ "/files/Projeto_de_Licenciatura.pdf" | relative_url }})", July 2016<br>
 Engenharia Eletrotécnica e de Computadores - Ramo Eletromecânica<br>
 Escola Superior de Tecnologia de Setúbal, Universidade Politécnica de Setúbal
