@@ -11,9 +11,11 @@ KUBUCAMA, Waldemiro; LUÍS, Ricardo; PEREIRA, Rita - "Efficiency Map of Synchron
 
 
 ## Master’s thesis
-"[Mapa de eficiência de motor síncrono de relutância (SynRM) através da análise de elementos finitos bidimensional](http://hdl.handle.net/10400.21/23168)", December/2025\
+Mapa de eficiência de motor síncrono de relutância (SynRM) através da análise de elementos finitos bidimensional, December/2025\
 Engenharia Eletrotécnica - Ramo Energia\
-Instituto Superior de Engenharia de Lisboa, Universidade Politécnica de Lisboa
+Instituto Superior de Engenharia de Lisboa, Universidade Politécnica de Lisboa\
+[![ISEL](https://img.shields.io/badge/ISEL-Trabalho_Final_de_Licenciatura-A6192E?style=flat&logoColor=white)](http://hdl.handle.net/10400.21/23168)
+
 
 ## Licentiate final project
 "[Contribuição para o estudo de deteção e diagnóstico de falhas em máquinas de indução trifásicas]({{ "/files/TFM_ISEL.pdf" | relative_url }})", July/2016\
