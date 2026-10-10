@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
+[![IEEE](https://img.shields.io/badge/IEEE-10.1109%2FYEF--ECE66503.2025.11117500-blue?logo=ieee&logoColor=white)](https://doi.org/10.1109/YEF-ECE66503.2025.11117500)
 ## Journal and conference papers
 KUBUCAMA, Waldemiro; LUÍS, Ricardo; PEREIRA, Rita - "Efficiency Map of Synchronous Reluctance Motor through Two-Dimensional Finite Element Analysis". 9th International Young Engineers Forum on Electrical and Computer Engineering (YEF-ECE). (2025).
 [![DOI](https://img.shields.io/badge/DOI-10.1109%2FYEF--ECE66503.2025.11117500-blue?style=flat-square&logo=doi)](https://doi.org/10.1109/YEF-ECE66503.2025.11117500)
