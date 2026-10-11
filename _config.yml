@@ -16,7 +16,7 @@ name                     : &name "Waldemiro Kubucama"
 description              : &description "Electrical Engineer | Electrical Machines | Energy"
 
 url                      : "https://waldemirokubucama.github.io"
-baseurl                  : "/WaldemiroKubucama"
+baseurl                  : ""
 repository               : "WaldemiroKubucama/WaldemiroKubucama.github.io"
 
 # Site Author
