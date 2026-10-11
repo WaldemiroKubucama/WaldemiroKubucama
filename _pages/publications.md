@@ -22,4 +22,4 @@ Instituto Superior de Engenharia de Lisboa, Universidade Politécnica de Lisboa\
 Contribuição para o estudo de deteção e diagnóstico de falhas em máquinas de indução trifásicas, July 2016\
 Engenharia Eletrotécnica e de Computadores - Ramo Eletromecânica\
 Escola Superior de Tecnologia de Setúbal, Universidade Politécnica de Setúbal\
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23302212.svg)](https://doi.org/10.5281/zenodo.23302212)
+[![DOI](https://zenodo.org/badge/DOI/https:10.5281/zenodo.23302938.svg)](https://doi.org/10.5281/zenodo.23302938)
